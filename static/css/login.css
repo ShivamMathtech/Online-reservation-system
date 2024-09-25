@@ -1,0 +1,18 @@
+body{
+    background-color: lightgray;
+}#loginbox{
+    width: 30vw;
+    height: 35vw;
+    margin: 20px auto;
+    background-color: #bdd4e7;
+   border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}#signin{
+    border-radius: 20px;
+    width: 100px;
+}#signup {
+    border-radius: 20px;
+    width: 100px;
+}#mumbai{
+    background-color: red;
+}
